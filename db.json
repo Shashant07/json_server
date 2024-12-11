@@ -1,0 +1,104 @@
+{
+  "user": [
+    {
+      "id": "5af2",
+      "userName": "shashant",
+      "userEmail": "shashant@gmail.com",
+      "userPhone": "1234567890",
+      "userDOB": "1111-11-11",
+      "userRole": "subscriber",
+      "password": "1f2e3c3c38203d2b0f7e7d7c"
+    },
+    {
+      "id": "d97d",
+      "userName": "prashant",
+      "userEmail": "prashant@gmail.com",
+      "userPhone": "1234567890",
+      "userDOB": "3333-02-11",
+      "userRole": "subscriber",
+      "password": "032132203b323d2713626160"
+    },
+    {
+      "id": "43d8",
+      "userName": "Shashant",
+      "userEmail": "shashantpandit@gmail.com",
+      "userPhone": "0963774422",
+      "userDOB": "0011-11-11",
+      "userRole": "subscriber",
+      "password": "31111061626364656667"
+    },
+    {
+      "id": "10ed",
+      "userName": "Shashant",
+      "userEmail": "sha@sah.lsdl",
+      "userPhone": "1234567890",
+      "userDOB": "1212-12-12",
+      "userRole": "subscriber",
+      "password": "3010116063626564"
+    }
+  ],
+  "newsletters": [
+    {
+      "id": "a56e",
+      "email": "sha@sah.lsdl"
+    },
+    {
+      "id": "547d",
+      "email": "sjkadj@lsajd"
+    },
+    {
+      "id": "ed42",
+      "email": "shashant@hdaj.kasdk"
+    },
+    {
+      "id": "0c4d",
+      "email": "sdsad@tcs.com"
+    },
+    {
+      "id": "f9f1",
+      "email": "shashant@gmail.com"
+    },
+    {
+      "id": "8629",
+      "email": "aasdas@sdas.dasd"
+    },
+    {
+      "id": "673a",
+      "email": "shasajdsdnla@asda.asda"
+    },
+    {
+      "id": "af23",
+      "email": "123456780@123.ss"
+    }
+  ],
+  "contactUs": [
+    {
+      "id": "99cc",
+      "name": "Hello",
+      "email": "world@gmail.com",
+      "subject": "shubjejaa",
+      "message": "my message\n"
+    },
+    {
+      "id": "9c5d",
+      "name": "shashnat",
+      "email": "padniasld@salkdj.dald",
+      "subject": "askjdakjlsjdlajldj",
+      "message": "ldajsldkjaldjaldj\n"
+    },
+    {
+      "id": "dca8",
+      "name": "asdafs",
+      "email": "sdfs.dfhkshkf@asjshd.askd",
+      "subject": "jkdlkslfj",
+      "message": "   "
+    },
+    {
+      "id": "a840",
+      "name": "S1111",
+      "email": "shashantpandit@gmail.com",
+      "subject": "ahsdkjk",
+      "message": "kjhkadhdak"
+    }
+  ]
+}
